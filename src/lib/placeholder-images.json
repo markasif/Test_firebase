@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Screenshot of a modern e-commerce dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1730578725454-dc9899fef7e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxlY29tbWVyY2UlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzY0MjE5MDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ecommerce dashboard"
+    },
+    {
+      "id": "2",
+      "description": "Abstract visualization of data points and connections.",
+      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXRhJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NjQyMDgyMjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data visualization"
+    },
+    {
+      "id": "3",
+      "description": "User interface for a collaborative task management application.",
+      "imageUrl": "https://images.unsplash.com/photo-1764173040025-0bf0a4bbb000?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx0YXNrJTIwbWFuYWdlcnxlbnwwfHx8fDE3NjQzMzA2MDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "task manager"
+    }
+  ]
 }
